@@ -18,7 +18,7 @@ This screenshot captures the SonarQube dashboard showing results of the analysis
 
 ---
 ## Docker Image Pushed to Docker Hub
-This screenshot shows the output of the successful `docker push` command, either from Jenkins or the CLI. It displays the Docker image being pushed to Docker Hub, along with version tags and image layers uploaded. In addition, the Docker Hub interface confirms the presence of the pushed image under the specified repository.
+- This screenshot shows the output of the successful `docker push` command, either from Jenkins or the CLI. It displays the Docker image being pushed to Docker Hub, along with version tags and image layers uploaded. In addition, the Docker Hub interface confirms the presence of the pushed image under the specified repository.
 ![Docker Image Pushed to Docker Hub](https://github.com/user-attachments/assets/750f2007-c3fb-42d2-8808-a8424a1930f7)
 ---
 ## Website Deployment Output
