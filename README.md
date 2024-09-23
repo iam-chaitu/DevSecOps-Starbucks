@@ -1,13 +1,12 @@
 ![Starbucks Clone Deployment](https://github.com/user-attachments/assets/6b654f47-9537-4b88-9584-41c760fc49ac)
 
 ![Jenkins Pipeline Code Configuration](https://github.com/user-attachments/assets/0cd8dffe-0238-49c6-8b5b-97b3a3dd33ad)
-This screenshot highlights the Jenkins Pipeline interface, showing the structured pipeline code in the Jenkinsfile. The stages visible include:
-
-SonarQube Analysis: Code quality scan stage configured for static analysis.
-OWASP FS Scan: Integration of OWASP Dependency Check for checking vulnerabilities in third-party libraries.
-Trivy Scan: Docker image scanning for vulnerabilities.
-Docker Build and Deployment: Stages showing Docker image build and its deployment process.
-The interface shows how each of these stages is linked, with relevant triggers, steps, and post-actions to ensure successful execution of the pipeline.
+## Jenkins Pipeline Code Configuration
+This screenshot highlights the Jenkins Pipeline interface, showing the structured pipeline code in the `Jenkinsfile`. The stages visible include:
+- **SonarQube Analysis:** Code quality scan stage configured for static analysis.
+- **OWASP FS Scan:** Integration of OWASP Dependency Check for checking vulnerabilities in third-party libraries.
+- **Trivy Scan:** Docker image scanning for vulnerabilities.
+- **Docker Build and Deployment:** Stages showing Docker image build and its deployment process.
 
 ![SonarQube Analysis Results](https://github.com/user-attachments/assets/65f6d35d-3822-4383-9d38-5a42a98ab5b6)
 This screenshot captures the SonarQube dashboard showing results of the analysis performed on your code. The key details visible include:
