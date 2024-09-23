@@ -1,6 +1,6 @@
 ![Starbucks Clone Deployment](https://github.com/user-attachments/assets/6b654f47-9537-4b88-9584-41c760fc49ac)
 ## Jenkins Pipeline Code Configuration
-This screenshot highlights the Jenkins Pipeline interface, showing the structured pipeline code in the `Jenkinsfile`. The stages visible include:
+This screenshot highlights the Jenkins Pipeline interface, showing the structured pipeline code in the [Jenkinsfile](JenkinsFile). The stages visible include:
 - **SonarQube Analysis:** Code quality scan stage configured for static analysis.
 - **OWASP FS Scan:** Integration of OWASP Dependency Check for checking vulnerabilities in third-party libraries.
 - **Trivy Scan:** Docker image scanning for vulnerabilities.
